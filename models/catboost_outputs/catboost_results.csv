@@ -1,2 +1,3 @@
-model,accuracy,f1_score,precision,recall,training_time_seconds
-CatBoost,0.9287875,0.929966153498874,0.9323669532517567,0.9287875,1336.3794195652008
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda0b204e287652f429625af0f31e29eb8fd5b80e6a0bd88eb4e9181e788d371
+size 150

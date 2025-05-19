@@ -1,2 +1,3 @@
-GBM,training_time_seconds,f1_score,accuracy,precision,recall
-GBM,17078.101558685303,0.7775859005971826,0.80507,0.8360930752550031,0.80507
+version https://git-lfs.github.com/spec/v1
+oid sha256:99ccb8fbbe15a7e0bd6a75f90b1af4dddd13e70832347ee4e67be57375fa8342
+size 140

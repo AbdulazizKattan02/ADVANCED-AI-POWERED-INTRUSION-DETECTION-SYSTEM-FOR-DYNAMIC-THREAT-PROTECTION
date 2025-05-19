@@ -4,3 +4,5 @@ venv/
 # Ignore compiled Python files
 *.pyc
 __pycache__/
+
+data/CIC-IDS-2017.csv

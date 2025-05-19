@@ -1,2 +1,3 @@
-model,training_time_seconds,f1_score,accuracy,recall,precision
-RandomForest_Grouped_Filtered,305.04557728767395,0.9452558419941146,0.9464725,0.9464725,0.9466396262848299
+version https://git-lfs.github.com/spec/v1
+oid sha256:24c9332e37aceca518a7d4df32455623778e2fac94cb4a930b287766ea6d5992
+size 172
