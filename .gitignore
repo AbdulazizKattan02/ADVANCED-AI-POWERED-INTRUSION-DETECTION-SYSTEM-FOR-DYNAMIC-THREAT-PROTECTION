@@ -8,5 +8,4 @@ __pycache__/
 data/CIC-IDS-2017.csv
 
 # Ignore large files
-*.csv
 *.joblib
