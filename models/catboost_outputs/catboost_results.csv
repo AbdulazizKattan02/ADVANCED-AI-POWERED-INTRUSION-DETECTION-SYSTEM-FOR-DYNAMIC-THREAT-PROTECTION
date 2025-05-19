@@ -1,0 +1,2 @@
+model,accuracy,f1_score,precision,recall,training_time_seconds
+CatBoost,0.9287875,0.929966153498874,0.9323669532517567,0.9287875,1336.3794195652008

@@ -1,0 +1,117 @@
+/* General Dark Theme Styles */
+body {
+    color: #FAFAFA; /* Light gray text */
+    background-color: #0E1117; /* Very dark background */
+}
+
+/* Main App Area */
+.stApp {
+    background-color: #0E1117;
+}
+
+/* Sidebar */
+.stSidebar {
+    background-color: #1E1E1E; /* Slightly lighter dark gray */
+}
+
+.stSidebar .stMarkdown h2 {
+    color: #FAFAFA;
+}
+
+/* Titles and Headers */
+h1, h2, h3 {
+    color: #FAFAFA;
+}
+
+/* Buttons */
+.stButton>button {
+    background-color: #1f77b4; /* Blue accent */
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+}
+
+.stButton>button:hover {
+    background-color: #165a8c;
+}
+
+/* Input Fields */
+.stTextInput>div>div>input,
+.stNumberInput>div>div>input,
+.stSelectbox>div>div {
+    background-color: #262730;
+    color: #FAFAFA;
+    border: 1px solid #444;
+}
+
+.stTabs [data-baseweb="tab"][aria-selected="true"] {
+    background: transparent !important;
+    color: #FAFAFA !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+/* DataFrames */
+.stDataFrame {
+    border: 1px solid #444;
+}
+
+/* Prediction Boxes - Matte Colors */
+.prediction-box-error {
+    background-color: #5E2129; /* Updated Matte Red from user image */
+    color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    text-align: center; /* Center text as in screenshot */
+}
+
+.prediction-box-success {
+    background-color: #114727; /* Matte Green */
+    color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    text-align: center; /* Center text as in screenshot */
+}
+
+/* Interpretation Boxes - Sync with Prediction Colors */
+.interpretation-box-error {
+    background-color: #5E2129; /* Updated Matte Red from user image */
+    color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    margin-bottom: 1rem; /* Add some space below */
+}
+
+.interpretation-box-success {
+    background-color: #114727; /* Matte Green */
+    color: white;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    margin-bottom: 1rem; /* Add some space below */
+}
+
+
+/* Style the metric for confidence */
+.stMetric {
+    background-color: #262730;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #444;
+}
+
+/* Style expanders */
+.stExpander {
+    border: 1px solid #444;
+    border-radius: 0.25rem;
+}
+
+.stExpander header {
+    background-color: #262730;
+    color: #FAFAFA;
+}
+

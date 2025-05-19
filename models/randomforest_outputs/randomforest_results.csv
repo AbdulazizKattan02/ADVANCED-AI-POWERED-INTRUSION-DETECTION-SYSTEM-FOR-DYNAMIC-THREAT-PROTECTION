@@ -1,0 +1,2 @@
+model,training_time_seconds,f1_score,accuracy,recall,precision
+RandomForest_Grouped_Filtered,305.04557728767395,0.9452558419941146,0.9464725,0.9464725,0.9466396262848299
